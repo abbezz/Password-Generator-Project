@@ -1,3 +1,2 @@
 # Password-Generator-Project
-
-# The goal of this project is to.
+ . The goal of this project is to.
