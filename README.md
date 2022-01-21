@@ -8,7 +8,7 @@ This application emphasizes the use of Javascript to generate a random, secure p
 
 ## Getting Started
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link.
-Psuedo Code and Project Requirements:
+
 
 The user will be prompted to choose from the following password criteria: 8 and 128 characters
 The user will recieve a confirm for:
