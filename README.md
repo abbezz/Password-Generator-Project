@@ -41,6 +41,7 @@ This textarea will display the users password once it is generated
 Javascript, HTML, CSS...
 
 link: https://abbezz.github.io/Password-Generator-Project/
-https://github.com/abbezz/Password-Generator-Project
+
+      https://github.com/abbezz/Password-Generator-Project
 
 
